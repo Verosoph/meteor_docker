@@ -1,7 +1,7 @@
 # meteor_docker
 how to create a docker container with meteor and angular.js
 
-## Step 
+## Step 0
 Create a Dockerfile
 ```
 FROM jshimko/meteor-launchpad:latest
